@@ -1,2 +1,3 @@
-# HONGONG_Python
-[Python] 혼공학습단 Python 미션
+# 🧐 혼공학습단 Python 미션
+
+
