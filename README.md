@@ -1,4 +1,4 @@
-# 🧐 혼공학습단 Python 미션
+# 🧐 혼공학습단 Python
 
 ![unnamed](https://user-images.githubusercontent.com/72568433/149507981-26a6a09d-d494-4ec3-8fba-88f3b5921901.png)
 <br>
