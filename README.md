@@ -18,6 +18,7 @@
 |2|Chapter 02(02-3) ~ 03|p.137 3번 문제 풀고 본인이 태어난 해와 띠를 출력하는 결과값 화면 인증샷|else 구문과 elif 구문 정리한 내용 포스팅하기|[2주차 인증](https://develop-about-leejin.tistory.com/3)|
 |3|Chapter 04|리스트, 딕셔너리, 범위 자료형에 대해 이해한 내용을 바탕으로 포스팅하기|p.157쪽의 1번 문제의 답 쓰고 인증샷|[3주차 인증](https://develop-about-leejin.tistory.com/entry/%ED%98%BC%EA%B3%B5%ED%95%99%EC%8A%B5%EB%8B%A8-%ED%98%BC%EC%9E%90-%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94-%ED%8C%8C%EC%9D%B4%EC%8D%AC-3%EC%A3%BC%EC%B0%A8-%EB%AF%B8%EC%85%98)|
 |4|Chapter 05|p.223 [직접 해보는 손코딩: 범위 내부의 정수를 모두 더하는 함수] 실행 후 코드가 입력된 화면 및 실행 결과 화면 캡쳐하기|매개변수, 기본 매개변수, 가변 매개변수에 대해 간략하게 정리한 내용 포스팅하기|[4주차 인증](https://develop-about-leejin.tistory.com/entry/%ED%98%BC%EA%B3%B5%ED%95%99%EC%8A%B5%EB%8B%A8-%ED%98%BC%EC%9E%90-%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94-%ED%8C%8C%EC%9D%B4%EC%8D%AC-4%EC%A3%BC%EC%B0%A8-%EB%AF%B8%EC%85%98)|
+|5|Chapter 06 ~ 07(07-1)|구문 오류와 예외의 차이 설명하기(p.291 1번 문제)|p.293 3번 문제 풀고 인증샷|[not yet..]|
 
 
 
